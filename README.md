@@ -1,4 +1,4 @@
-# A Prelimary Analysis of the Decline in Average Shot Length in American Cinema from 1940-2009 as evidence of shortening attention spans.
+# A Prelimary Analysis of the Decline in Average Shot Length in American Cinema From 1940-2009 as Evidence of Shortening Attention Spans.
 
 "What ideas are convenient to express inevitably becomes the important content of a culture."
      --Neil Postman, *Amusing Ourselves to Death*

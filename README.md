@@ -44,3 +44,5 @@ The database contains a good number of samples from each year, but it is weakest
 Further Study
 
 Further cleaning of the existing data should allow a future attempt to correlate the decreased shot length with box office success. Additionally, Cinematric has a much a larger set of data for additional films. This dataset however is full of irregularites and would require extensive cleaning and verification to be remotely usable. Cinematics is also beta testing an VLC plugin that would calculate shot length as the film as displayed. A tool similar to the this capable of running in an automated fashion over an entire archive of films would be the method to produce the best possible dataset for the strongest analysis. 
+
+Finally, access to the Neilsen total family data for the respective years would enable a strong case to be made for the correlation between TV viewing habits and ASL data.
